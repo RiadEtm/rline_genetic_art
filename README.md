@@ -1,5 +1,9 @@
 # rLine - Genetic Art
 
+### Lion
+
+![](https://i.imgur.com/t6y7T2D.mp4)
+
 ### Artificial Intelligence x Genetic Algorithms
 Genetic algorithms are a class of evolutionary algorithms belonging to the group of artificial intelligence algorithms. The objective is to obtain an approximate solution to a problem that has no exact solution.
 
